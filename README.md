@@ -1,5 +1,5 @@
-##                                         Systems Engineer
-#                                    Hola 👋, soy Diego Alejandro
+                                        Systems Engineer
+                                  Hola 👋, soy Diego Alejandro
 
 📚 Actualmente soy ingeniero en sistemas freelance 
 
